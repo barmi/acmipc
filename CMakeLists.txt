@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.29)
+project(acmipc)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(1011 gold/5/1011/main.cpp)
+add_executable(1032 bronze/1/1032/main.cpp)
+add_executable(1010 silver/5/1010/main.cpp)
+add_executable(2490 etc/2490/main.cpp)
+add_executable(32953 bronze/1/32953/main.cpp)
+add_executable(1672 bronze/1/1672/main.cpp)
